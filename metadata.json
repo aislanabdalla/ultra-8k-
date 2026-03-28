@@ -1,0 +1,5 @@
+{
+  "name": "Aprimorador de Imagem com IA Google",
+  "description": "Aplicativo de super-resolução e upscale de imagens usando o modelo Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
